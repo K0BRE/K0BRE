@@ -1,4 +1,4 @@
-##A new student learning C#, I started on March 1st, 2025, and I am currently 18 years old. You can contact me at contatokoetw@gmail.com or in Discord: im_ko.
+## A new student learning C#, I started on March 1st, 2025, and I am currently 18 years old. You can contact me at contatokoetw@gmail.com or in Discord: im_ko.
 
 <!--
 **K0BRE/K0BRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
